@@ -1,4 +1,6 @@
-# Imitation-Learning-to-write-3-alphabets-using-Kinova-Gen3
+# Assignment-2
+
+# Name - Adharsh Mahesh Kumaar
 
 # Requirements
 
@@ -11,4 +13,4 @@ Clone the repository and run Assignment2.m
 
 # Reference
 
-The functions init_kmeans, GMR, EM_GMM and dataset are taken from ECSE - 683 Github course repository.
+The functions init_kmeans, GMR, EM_GMM and dataset are taken from our course repository.
